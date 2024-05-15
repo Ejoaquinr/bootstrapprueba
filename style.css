@@ -1,0 +1,37 @@
+
+    .jumbotron {
+      padding: 1rem 0;
+    }
+    .jumbotron h1 {
+      font-size: 1.5rem;
+    }
+    .smaller-image {
+      max-width: 150px; /* Ajusta el tamaño según tus necesidades */
+    }
+    .content-container {
+      background-color: #cab7d3; /* Color de fondo del contenido */
+      border-radius: 10px; /* Borde redondeado del contenido */
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Sombra del contenido */
+      padding: 20px; /* Espaciado interno del contenido */
+      margin-top: 20px; /* Espaciado superior del contenido */
+    }
+    .content-title {
+      color: #510c80; /* Color del título del contenido */
+    }
+    .content-text {
+      color: #6c757d; /* Color del texto del contenido */
+    }
+    .jumbotron-custom {
+      background-color: #f8f9fa; /* Color de fondo del jumbotron */
+    }
+    .jumbotron-custom h1 {
+      color: #343a40; /* Color del título del jumbotron */
+    }
+    body {
+    background-image: url('fondo2.jpg'); /* URL de la imagen de fondo */
+    background-size: cover; /* Escala la imagen para cubrir toda el área */
+    background-repeat: no-repeat; /* Evita la repetición de la imagen */
+  }
+  
+  
+  
